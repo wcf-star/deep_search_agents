@@ -1,0 +1,30 @@
+# ===== 密钥与环境 =====
+.env
+.venv*/
+venv/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+build/
+dist/
+.pytest_cache/
+
+# ===== 运行时生成数据 =====
+output/
+updated/
+data/
+*.log
+docs/
+
+# ===== 前端 =====
+ui/node_modules/
+ui/dist/
+
+# ===== IDE / 系统 =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

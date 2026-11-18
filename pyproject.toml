@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my-agent"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["agent", "tools", "api", "utils", "rawflow"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
