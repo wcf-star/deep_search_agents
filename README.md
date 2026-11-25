@@ -3,6 +3,7 @@
 > 基于 **DeepAgents + FastAPI + Vue** 的多智能体深度检索系统：1 个主智能体动态编排 3 个子智能体，接入**网络搜索 / 关系型数据库 / RAG 知识库**三类数据源，通过 **WebSocket** 实时推送全链路执行进度，并落地 **Markdown / PDF** 文档生成。
 
 ▶️ 演示视频](./11月18日.mp4)
+<img width="2048" height="1180" alt="image" src="https://github.com/user-attachments/assets/4c01ace2-2fc9-446e-9c9f-71277b757697" />
 
 ## ✨ 功能特性
 
